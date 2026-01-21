@@ -8,11 +8,11 @@ This project analyzes healthcare survey data to evaluate hospital services and p
 
 ## Installation-->
 1️) Clone the Repository
-git clone https://github.com/Adarsh12325/Healthcare-Data-Analysis.git
-cd Healthcare-Data-Analysis
+-> git clone https://github.com/Adarsh12325/Healthcare-Data-Analysis.git
+-> cd Healthcare-Data-Analysis
 
 2️) Install Dependencies-->
-pip install pandas matplotlib seaborn openpyxl fpdf
+-> pip install pandas matplotlib seaborn openpyxl fpdf
 
 ## Usage
 -> Generate Charts
